@@ -2,7 +2,7 @@
 
 ## Description
 
-This project requires code refactoring based on what has been learnt in week 1 at the Coding Bootcamp course through University of Sydney and & Triology Education Services.
+This project requires code refactoring based on what has been learnt in week 1 at the Coding Bootcamp course through University of Sydney & Triology Education Services.
 
 The client is a marketing agency known as Horiseon who are seeking to update their codebase for accessbility and search engine optimisation.
 
