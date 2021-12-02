@@ -10,7 +10,7 @@ Accessible websites rank higher in search engines like Google, hence refactoring
 
 **Summary of changes:**
 
-- Replaced <div> with semantic elements
+- Replaced div elements with semantic elements
 - Updated headings in sequential order
 - Added alt text to images
 - Consolidated CSS Selectors 
