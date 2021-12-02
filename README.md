@@ -17,7 +17,7 @@ Accessible websites rank higher in search engines like Google, hence refactoring
 
 ## Website Preview
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/images/horiseon.png)
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/horiseon.png)
 
 
 
