@@ -8,10 +8,17 @@ The client is a marketing agency known as Horiseon who are seeking to update the
 
 Accessible websites rank higher in search engines like Google, hence refactoring the codebase will further increase the chance of this website appearing in search results.
 
-Summary of changes:
+### Summary of changes:
 
-- Replaced <div> with semantic elements such as <nav> <section> <article>
-- 
+- Replaced <div> with semantic elements
+- Updated headings in sequential order
+- Added alt text to images
+- Consildated CSS Selectors 
+
+#### Website Preview
+
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/images/horiseon.png)
+
 
 
 
